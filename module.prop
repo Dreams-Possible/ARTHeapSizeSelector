@@ -1,6 +1,6 @@
 id=DalvikVMSetHeapsize
 name=ART Heap Size Selector
-version=1.1.0
-versionCode=3
+version=1.1.1
+versionCode=4
 author=Mathrix (https://github.com/Dreams-Possible)
-description=安装时通过音量键选择 ART Java 堆上限，默认 1024 MiB。
+description=安装时选择 ART Java 堆上限。音量加切换档位，音量减确认，默认 1024 MiB。
