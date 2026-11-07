@@ -53,6 +53,7 @@ select_heap() {
 
 install_heap() {
     heap_size=1024
+    ui_print "当前档位 $heap_size MiB（默认），可直接按音量减确认。"
     ui_print "音量加：循环切换档位。"
     ui_print "音量减：确认当前档位。"
     ui_print "档位 512 / 768 / 1024 / 1536 / 2048 MiB"
